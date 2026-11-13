@@ -1,0 +1,92 @@
+# ==============================================================================
+# Git Ignore Configuration for Digital Marketing AI Agent
+# ==============================================================================
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+Backend/.venv/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Local Environment Variables & Secrets (Never commit secrets to GitHub)
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Node / Frontend Dependencies & Production Builds
+node_modules/
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+
+# Local Storage & Generated Runtime Media
+Backend/storage/posters/*
+!Backend/storage/posters/.gitkeep
+!Backend/storage/posters/c0b9f6cf6ff9_final.png
+Backend/storage/videos/*
+!Backend/storage/videos/.gitkeep
+Backend/storage/temp/
+storage/posters/*
+!storage/posters/.gitkeep
+storage/videos/*
+!storage/videos/.gitkeep
+Backend/Backend/
+*.tmp
+*.mp4
+*_temp.mp4
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Operating System & IDE Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Temporary Gradio / AI Generation Files
+AppData/
+tmp*

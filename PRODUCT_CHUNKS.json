@@ -1,0 +1,56 @@
+[
+  {
+    "id": "layman_about_01",
+    "section": "About the Studio",
+    "title": "What is 42 WORKS Studio and What Does It Do?",
+    "text": "42 WORKS Studio is an easy-to-use tool that creates ready-to-share social media posters in seconds with zero design skills required. You simply type what occasion or holiday you want to celebrate (like Diwali, Teacher's Day, or a team achievement), and the studio automatically creates a professional picture, an inspiring title and quote, and a ready-made social caption with emojis and hashtags."
+  },
+  {
+    "id": "layman_create_02",
+    "section": "Studio & Creation",
+    "title": "How to Create a Poster from Scratch",
+    "text": "To create a poster, open the Studio tab. You can click on any upcoming festival from the Upcoming Occasions calendar or type your own idea in the prompt box. As you type, the studio shows light-grey suggestions to help complete your thought—press Tab to accept them. Next, choose your poster shape (Square for standard feed posts, Portrait for tall mobile feeds, Landscape for banners, or Story for vertical Stories). Finally, click 'Generate Cinematic Poster'."
+  },
+  {
+    "id": "layman_shapes_03",
+    "section": "Poster Shapes & Sizes",
+    "title": "Which Poster Shape / Aspect Ratio Should I Choose?",
+    "text": "Choose Square (1:1) for regular posts on Instagram, LinkedIn, and Facebook feeds. Choose Portrait (4:5) for tall mobile feed posts that take up more screen space on smartphones. Choose Landscape (16:9) for website headers, blog graphics, or Twitter/X. Choose Story (9:16) for full-screen vertical Instagram Stories, Facebook Stories, Reels, and WhatsApp Status."
+  },
+  {
+    "id": "layman_canvas_04",
+    "section": "Poster Editor & Moving Text",
+    "title": "How to Move, Resize, or Rotate Text on a Poster",
+    "text": "When your poster opens in the review window, you will see a yellow box around the title and quote. Click and drag this box anywhere on the image so the text does not block important faces or objects. Pull the corners to make text bigger or smaller, pull the sides to make it wider or narrower, or tilt it using the top circle handle. You can also click quick buttons to move text to the Top, Center, or Bottom, or click Reset Center to straighten it back to the middle."
+  },
+  {
+    "id": "layman_revisions_05",
+    "section": "Editing & Saving Changes",
+    "title": "How to Change Words and Save Edits Without Starting Over",
+    "text": "On the right side of the review window, you can click inside the Headline box to change the main title, or the Story Quote box to change the quote. You can also edit the Social Caption. Once you make changes or move text on the picture, click the yellow 'Apply Instant Revision' button. It saves your changes and updates the poster image in less than a second. Your custom text positions are saved permanently and will not reset when you reopen the poster."
+  },
+  {
+    "id": "layman_download_06",
+    "section": "Viewing & Downloading",
+    "title": "How to Preview Clean Art and Download Your Poster Image",
+    "text": "Below the poster in the review window, you will find two helpful buttons. 'Preview Clean Art' temporarily hides the text so you can look at the clean background picture by itself (click it again to bring the text back). 'Save as PNG' immediately downloads the full high-resolution image directly to your computer or phone so you can print it or keep it."
+  },
+  {
+    "id": "layman_publishing_07",
+    "section": "Social Media Sharing & Scheduling",
+    "title": "How to Post Directly to LinkedIn or Instagram, or Schedule for Later",
+    "text": "In the review window, look at the Multi-Channel Dispatch section at the bottom right. Click 'Publish Now' to share your poster, caption, and hashtags directly to your LinkedIn or Instagram page right away. If you want to post in the future (like tomorrow morning or next week), click the schedule option, choose your desired date and time, and the studio will publish it automatically when that time arrives, just like scheduling an email in Gmail."
+  },
+  {
+    "id": "layman_library_08",
+    "section": "Library & History",
+    "title": "Where Are My Saved Posters and How Do I Find Old Work?",
+    "text": "Click the 'Library' tab at the top of the website. Every poster you ever create is automatically saved here so nothing is lost. You can type keywords in the search bar to find past posters quickly. Clicking on any poster opens it in the review window where you can make edits, download it, or share it. You can permanently delete drafts using the red Trash icon, or click 'Archive' to safely store published posts and keep your active screen uncluttered."
+  },
+  {
+    "id": "layman_assistant_09",
+    "section": "Mascot & Help",
+    "title": "Who is Pickachoo and How Do I Get Help?",
+    "text": "Pickachoo (Sparky) is the friendly yellow studio helper located in the bottom-right corner of your screen. Click on him anytime to open a quick help chat. You can ask him questions in simple everyday language like 'How do I make a poster?', 'How do I download my picture?', or 'How do I share to Instagram?', and he will guide you step by step."
+  }
+]
